@@ -1,4 +1,6 @@
 PHASE-4-PROJECT
+Link to presentation [slides](https://docs.google.com/presentation/d/1oCcRw6qBNtLyPmFcWuvbvYy4MqiaZIWUIpUATGp9adA/edit#slide=id.g1f87997393_0_1466)
+
 # A PNEUMONIA CHEST X-RAY IMAGE CLASSIFICATION FOR JMARKS HOSPITAL
 
 ***
